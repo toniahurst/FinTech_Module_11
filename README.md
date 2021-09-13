@@ -1,5 +1,5 @@
 # FinTech_Module_11 Challenge
-
+In this challenge, we produced a Jupyter notebook for data preparation, analysis, and visualizations for time series data that the company needs to understand. Google colabs and Prophet were used to make advanced projections.
 
 # Images
 
@@ -39,7 +39,7 @@ This program uses Python 3.7.10, Anaconda version 4.10.3, and JupyterLab 3.0.14.
 
 ## Usage
 
-Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Module_10/blob/main/Starter_Code/crypto_investments.ipynb or download the notebook and run from the CLI.
+Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Module_11/blob/main/forecasting_net_prophet.ipynb or download the notebook and run from the CLI.
 
 ## Contributors
 
