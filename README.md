@@ -1,4 +1,7 @@
 # FinTech_Module_11 Challenge
+
+# Background
+
 In this challenge, we produced a Jupyter notebook for data preparation, analysis, and visualizations for time series data that the company needs to understand. Google colabs and Prophet were used to make advanced projections.
 
 # Images
